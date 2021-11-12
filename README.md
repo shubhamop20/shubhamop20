@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shubham 
-- 👀 I’m interested in Machine Learning and Deep Learning
+- 👀 My area of interest are Mechanical Core, Machine Learning and Data Science
 - 🌱 I’m currently pursuing Masters from Indian Institute of Technology Kanpur
 - 📫 How to reach me - shubhamop20@iitk.ac.in
 
